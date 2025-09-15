@@ -6,10 +6,10 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- Add secret ingredients
 
 ## Instructions:
-1. Preheat the oven to 375°F (190°C).
+1. Preheat the oven to 700°F (300°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
 3. ...
 
